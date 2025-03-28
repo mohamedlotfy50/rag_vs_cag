@@ -1,0 +1,5 @@
+langchain-google-genai
+langchain-text-splitters
+langchain-community
+langgraph
+langchain-core
